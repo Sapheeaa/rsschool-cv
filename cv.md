@@ -58,3 +58,11 @@ return sum;
 alert( sumInput() ); // alert the total amount
 ```
 ************
+
+### Projects: ###
++ [Tattoo portfolio website](https://github.com/Sapheeaa/tattoo.git)
++ [page of English language courses weblite](https://github.com/Sapheeaa/first_project.git)
++ [website with handouts, a logarithm calculator, a registration form and a currency converter](https://github.com/Sapheeaa/Jef_Raskin.git)
+************
+
+
