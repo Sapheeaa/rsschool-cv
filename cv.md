@@ -64,5 +64,7 @@ alert( sumInput() ); // alert the total amount
 + [page of English language courses weblite](https://github.com/Sapheeaa/first_project.git)
 + [website with handouts, a logarithm calculator, a registration form and a currency converter](https://github.com/Sapheeaa/Jef_Raskin.git)
 ************
-
+### Languages: ###
++ Russion, Belarussion -native speaker
++ English- B1 (B2 in progress, I have personal English classes twice a week, read books in English, watch films and series in the original)
 
